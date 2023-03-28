@@ -1,0 +1,147 @@
+# 网站别称
+alternate: 
+
+# Assets 加速
+statics: / #//cdn.jsdelivr.net/gh/amehime/shoka@latest/
+
+open_graph:
+  #twitter_id:
+  #google_plus:
+  #fb_admins:
+  #fb_app_id:
+
+# 网站加载动画
+loader:
+  start: false # 当初次打开页面时，显示加载动画
+  switch: false # tab 切换到其他页面时，显示加载动画
+
+# 单机烟花特效
+fireworks:
+  enable: true # 是否启用
+  color: # 烟花颜色
+    - "rgba(255,182,185,.9)"
+    - "rgba(250,227,217,.9)"
+    - "rgba(187,222,214,.9)"
+    - "rgba(138,198,209,.9)"
+
+# 菜单
+menu:
+  home: / || home
+  posts:
+    default: / || pen
+    archives: /archives/ || list-alt
+    tags: /tags/ || tags
+  链接: /friends/ || magic
+  关于: /about/ || coffee
+
+# 社交链接
+# Usage: `Key: permalink || icon || color`
+# Key is the link label showing to end users.
+# Value before `||` delimiter is the target permalink,
+# secend value is the name of Font icon.
+social:
+  email: mailto:kirikirino@icloud.com || envelope || "#55acd5"
+  twitter: https://twitter.com/kirinohouse2 || twitter || "#00aff0"
+  github: https://github.com/kirikirino || github || "#191717"
+  instagram: https://instagram.com/kirionhouse || instagram || "#e60026"
+  bilibili: https://space.bilibili.com/738984 || bilibili || "#00aff0"
+  zhihu: https://www.zhihu.com/people/wu-zhi-add || zhihu || "#1e88e5"
+
+# 边栏配置
+sidebar:
+  # Sidebar Position.
+  position: right
+  #position: right
+  # Replace the default avatar image and set the url here.
+  avatar: avatar.jpg
+
+#底部 widgets 配置
+widgets:
+  random_posts: true # 显示随机文章
+  recent_comments: false # 显示最近评论
+
+footer:
+  # Specify the date when the site was setup. If not defined, current year will be used.
+  since: 2022
+  count: true
+
+post:
+  count: true
+
+# 加载 google 字体
+font:
+  enable: true
+  # Font options:
+  # `external: true` will load this font family from `host` above.
+  # `family: Times New Roman`. Without any quotes.
+  # `size: x.x`. Use `em` as unit. Default: 1 (16px)
+
+  # Global font settings used for all elements inside <body>.
+  global:
+    external: true
+    family: Mulish
+    size:
+
+  # Font settings for alternate title.
+  logo:
+    external: true
+    family: Fredericka the Great
+    size: 3.5
+
+  # Font settings for site title.
+  title:
+    external: true
+    family: Noto Serif JP
+    size: 2.5
+
+  # Font settings for headlines (<h1> to <h6>).
+  headings:
+    external: true
+    family: Noto Serif SC
+    size:
+
+  # Font settings for posts.
+  posts:
+    external: true
+    family:
+
+  # Font settings for <code> and code blocks.
+  codes:
+    external: true
+    family: Inconsolata
+
+# ---------------------------------------------------------------
+# Third Party Plugins & Services Settings
+# ---------------------------------------------------------------
+
+# 文章评论
+# Valine
+# For more information: https://valine.js.org, https://github.com/xCss/Valine
+#valine:
+  #appId: #这里不要忘了改
+  #appKey: #这里不要忘了改
+  #placeholder: ヽ(○´∀`)ﾉ♪ # Comment box placeholder
+  #pageSize: 10 # Pagination size
+  #lang: zh-CN
+  #tagMember:
+    #master:
+      # - deea5a8d259d17182a53be1772e4c182
+    #friend:
+      #- deea5a8d259d17182a53be1772e4c182
+
+
+# Dependencies: https://github.com/amehime/hexo-renderer-multi-markdown-it
+pangu: true
+
+# ---------------------------------------------------------------
+# analytics & SEO Settings
+# ---------------------------------------------------------------
+
+
+# Disable Baidu transformation on mobile devices.
+disable_baidu_transformation: true
+
+# Automatically add external URL with Base64 encrypt & decrypt.
+exturl: true
+
+

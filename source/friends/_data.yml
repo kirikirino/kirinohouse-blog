@@ -1,0 +1,13 @@
+- site: 雾之宅落
+  owner: 雾之
+  url: https://kirinohouse.com/
+  desc: 雾之的个人博客
+  image: https://s2.loli.net/2023/03/18/2nTuHfDMqaYNbFs.jpg
+  color: "#3390d2"
+
+- site: MoGu's Blog
+  owner: MoGu
+  url: https://blog.medicmogu.com
+  desc: By Accident?Maybe.
+  image: https://raw.githubusercontent.com/MedicMoGu/image/master/avatar.png
+  color: "#3390d2"
