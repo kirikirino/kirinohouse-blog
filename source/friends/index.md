@@ -20,7 +20,7 @@ copyright: false
 
 ## 交换方式
 
-- 通过电子邮件 [:(fa fa-envelope):](mailto:kirikirino@icloud.com) 的形式告知以下内容，添加成功后会通过邮件进行反馈。
+- 通过电子邮件 [:email:](mailto:kirikirino@icloud.com) 的形式告知以下内容，添加成功后会通过邮件进行反馈。
 
 ~~~yml
 ```yml

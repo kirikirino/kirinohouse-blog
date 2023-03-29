@@ -1,6 +1,6 @@
 # 网站别称
 alternate: 
-
+item dropdow: false
 # Assets 加速
 statics: / #//cdn.jsdelivr.net/gh/amehime/shoka@latest/
 
