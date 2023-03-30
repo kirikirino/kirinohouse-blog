@@ -66,9 +66,22 @@ index_generator:
   per_page: 10
   order_by: -date
 
+# 文章隐藏插件 hexo-hide-posts
+hide_posts:
+  # 可以改成其他你喜欢的名字
+  filter: hidden
+  # 指定你想要传递隐藏文章的位置，比如让所有隐藏文章在存档页面可见
+  # 常见的位置有：index, tag, category, archive, sitemap, feed, etc.
+  # 留空则默认全部隐藏
+  public_generators: [category]
+  # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
+  noindex: true
+
 # Category & Tag
 default_category: uncategorized
 category_map:
+  一些文章: paper
+  动画殿堂: anime-palace
 tag_map:
 
 # Metadata elements
