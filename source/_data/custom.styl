@@ -1,0 +1,183 @@
+.animes {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1rem;
+
+  .item {
+    position: relative;
+    display: inline-flex;
+    justify-self: center;
+    align-items: center;
+    height: 225.0px; // 块高度
+    width: calc(50% - 2rem);
+    padding: .5rem 1rem;
+    margin: 1rem;
+    the-transition();
+    shadow-box();
+
+    --bg-color: #3390d2;
+    
+    &.spring {
+      background-color: #eef2f1;
+    }
+
+    &.summer {
+      background-color: #f5f0ef;
+    }
+
+    &.fall {
+      background-color: #f5f3eb;
+    }
+
+    &.winter {
+      background-color: #eef1f4;
+    }
+    
+    &.random {
+      background-color: #efefef;
+    }
+
+    .image {
+      display: block;
+      border-radius: .5rem; // 倒角
+      background: var(--grey-1) center no-repeat;
+      background-size: cover;
+      flex-shrink: 0;
+      border: none;
+
+      &.list{
+      width: 128.0px; // 图片宽度
+      height: 192.0px; // 图片高度
+      }
+
+      &.jav{
+      width: 136.0px !important;
+      height: 192.0px !important;
+      }
+    }
+
+     .info {
+      padding-left: 1rem;
+    }
+
+    .title {
+      overflow: hidden;
+      font-family: $font-family-title;
+      font-weight: bolder;
+      word-wrap:break-word;
+      word-break: break-all;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      font-size: 1.3rem;
+      line-height:1.8rem;
+      -webkit-line-clamp: 1;
+      color: #e79d64;
+      border: none;
+      .ic {
+        display: none;
+      }
+    }
+
+    .year {
+      margin-top: 40px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      word-wrap:break-word;
+      word-break: break-all;
+      display: table;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      font-size: .9rem;
+      letter-spacing: .04rem;
+      color: white;
+
+      padding: 0px 10px;
+      border-radius: 4px;
+
+      &.spring {
+        background: #62BCA1;
+        }
+
+      &.summer {
+        background: #F29089;
+        }
+
+      &.fall {
+        background: #F5C42B;
+        }
+
+      &.winter {
+        background: #68ACEA;
+        }
+      
+      &.random {
+        background: #7d7d7d;
+        }
+
+      }
+
+      .category {
+      margin-top: 5px;
+      margin-bottom: 30px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      word-wrap:break-word;
+      word-break: break-all;
+      display: table;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      font-size: .9rem;
+      letter-spacing: .15rem;
+      color: white;
+
+      padding: 0px 10px;
+      border-radius: 4px;
+
+      &.original {
+        background: #778ca3;
+        }
+
+      &.comics {
+        background: #38ada9;
+        }
+
+      &.novel {
+        background: #A08FD5;
+        }
+
+      &.game {
+        background: #fd79a8;
+        }
+      
+      &.random {
+        background: #7d7d7d;
+        }
+
+      }
+
+      &:hover {
+      color: var(--header-text-color);
+      background-color: var(--bg-color);
+      box-shadow: 0 .125rem 1.25rem var(--bg-color);
+      border-color: var(--bg-color);
+
+      .image {
+        mix-blend-mode: normal;
+        background-color: var(--bg-color);
+      }
+
+      .title {
+        color: var(--header-text-color);
+      }
+    }
+  }
+
+
+  +mobile() {
+    font-size: $font-size-base;
+    .item {
+      width: calc(100% - 2rem);
+    }
+  }
+}

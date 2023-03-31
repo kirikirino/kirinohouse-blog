@@ -1,13 +1,311 @@
-- site: 雾之宅落
-  owner: 雾之
-  url: https://kirinohouse.com/
-  desc: 雾之的个人博客
-  image: https://s2.loli.net/2023/03/18/2nTuHfDMqaYNbFs.jpg
-  color: "#3390d2"
+- title: 恋愛フロップス
+  url: https://www.themoviedb.org/tv/195990
+  poster: https://www.themoviedb.org/t/p/original/nI9Bpy42lh0Mqu0VklqFgGfBOvh.jpg
+  year: 2022年秋
+  category: 原创动画
 
-- site: MoGu's Blog
-  owner: MoGu
-  url: https://blog.medicmogu.com
-  desc: By Accident?Maybe.
-  image: https://raw.githubusercontent.com/MedicMoGu/image/master/avatar.png
-  color: "#3390d2"
+- title: メイドインアビス
+  url: https://www.themoviedb.org/tv/72636
+  poster: https://www.themoviedb.org/t/p/original/nOpmiDU5tEULZ2m5h3zdx3SL8Kf.jpg
+  year: 2022年夏
+  category: 漫画改编
+
+- title: エスタブライフ グレイトエスケープ
+  url: https://www.themoviedb.org/tv/134580
+  poster: https://www.themoviedb.org/t/p/original/klel2qcHfwaqF3dx3ySbqrGnz9w.jpg
+  year: 2022年春
+  category: 原创动画
+
+- title: 東京24区
+  url: https://www.themoviedb.org/tv/137045
+  poster: https://www.themoviedb.org/t/p/original/tkDuxPYhDxZxuFPBpKLuIx7oimv.jpg
+  year: 2022年冬
+  category: 原创动画
+
+- title: ブルーピリオド
+  url: https://www.themoviedb.org/tv/116983
+  poster: https://www.themoviedb.org/t/p/w1280/6PNVhezxNew0TQXmefDJgKwpP6q.jpg
+  year: 2021年秋
+  category: 漫画改编
+
+- title: 海賊王女
+  url: https://www.themoviedb.org/tv/106480
+  poster: https://www.themoviedb.org/t/p/original/7XA1bfXgxAj9rUo7vsthztcTda3.jpg
+  year: 2021年秋
+  category: 原创动画
+
+- title: 竜とそばかすの姫
+  url: https://www.themoviedb.org/movie/776305
+  poster: https://www.themoviedb.org/t/p/original/yJcUxGnKnnwoMn7Xy6tb1ijburB.jpg
+  year: 2021年夏
+  category: 原创动画
+
+- title: Sonny Boy
+  url: https://www.themoviedb.org/tv/124396
+  poster: https://www.themoviedb.org/t/p/original/6sJ7FCtxzrNfgM70s2d7VS0Xjdm.jpg
+  year: 2021年夏
+  category: 原创动画
+
+- title: Vivy -Fluorite Eye's Song-
+  url: https://www.themoviedb.org/tv/116725
+  poster: https://www.themoviedb.org/t/p/original/4cFKAbojqVvybcfLFSh4BAZJo0K.jpg
+  year: 2021年春
+  category: 原创动画
+
+- title: オッドタクシー
+  url: https://www.themoviedb.org/tv/116727
+  poster: https://www.themoviedb.org/t/p/original/v3HU4VpPfB7yabMVeKkJ5y891M5.jpg
+  year: 2021年春
+  category: 原创动画
+
+- title: ゴジラS.P
+  url: https://www.themoviedb.org/tv/111177
+  poster: https://www.themoviedb.org/t/p/original/gvlZiRDFhcOAYQJeuFNq6RIKKs5.jpg
+  year: 2021年春
+  category: 原创动画
+
+- title: アリスインデッドリースクール
+  url: https://www.themoviedb.org/tv/122609
+  poster: https://www.themoviedb.org/t/p/original/8RblGIjRVJorLVzg0mpyj8464aJ.jpg
+  year: 2021年冬
+  category: 原创动画
+
+- title: ホリミヤ
+  url: https://www.themoviedb.org/tv/110070
+  poster: https://www.themoviedb.org/t/p/original/6AZTMdxKKLQcoVQJAQcZgNdanmP.jpg
+  year: 2021年冬
+  category: 漫画改编
+
+- title: ワンダーエッグ・プライオリティ
+  url: https://www.themoviedb.org/tv/111255
+  poster: https://www.themoviedb.org/t/p/original/61jj8IHgS1Vea08tjMSr73V8VJ.jpg
+  year: 2021年冬
+  category: 原创动画
+
+- title: デカダンス
+  url: https://www.themoviedb.org/tv/92588
+  poster: https://www.themoviedb.org/t/p/original/akM8HW1hjNbNRGHKmENKmwImKgv.jpg
+  year: 2020年夏
+  category: 原创动画
+
+- title: イエスタデイをうたって
+  url: https://www.themoviedb.org/tv/95550
+  poster: https://www.themoviedb.org/t/p/original/5sXEjsYaKhUxOtP3m4ETh9vwxiI.jpg
+  year: 2020年春
+  category: 漫画改编
+
+- title: 異種族レビュアーズ
+  url: https://www.themoviedb.org/tv/96444
+  poster: https://www.themoviedb.org/t/p/original/tu5hPjJB0A2GyKAxMaOIlrEzyp8.jpg
+  year: 2020年冬
+  category: 漫画改编
+
+- title: イド：インヴェイデッド
+  url: https://www.themoviedb.org/tv/92602
+  poster: https://www.themoviedb.org/t/p/original/74F3ughk6mPIDMLYHKtipGTNmt8.jpg
+  year: 2020年冬
+  category: 漫画改编
+
+- title: 天気の子
+  url: https://www.themoviedb.org/movie/568160
+  poster: https://www.themoviedb.org/t/p/original/jQBNrNQHCvNdUxXiCkov1vv1EX8.jpg
+  year: 2019年秋
+  category: 原创动画
+
+- title: 荒ぶる季節の乙女どもよ。
+  url: https://www.themoviedb.org/tv/88042
+  poster: https://www.themoviedb.org/t/p/original/vPomH4eNXlbcBaiLodfQewgWpCX.jpg
+  year: 2019年夏
+  category: 漫画改编
+
+- title: 君の膵臓をたべたい
+  url: https://www.themoviedb.org/movie/504253
+  poster: https://www.themoviedb.org/t/p/original/aUxbkULgC3fpdwbdiuqKJLyfr4R.jpg
+  year: 2018年夏
+  category: 小说改编
+
+- title: DEVILMAN crybaby
+  url: https://www.themoviedb.org/tv/75208
+  poster: https://www.themoviedb.org/t/p/original/1ehhmZFfGWgFYTGIkpyl4PAUFYu.jpg
+  year: 2018年冬
+  category: 漫画改编
+
+- title: 宇宙よりも遠い場所
+  url: https://www.themoviedb.org/tv/76059
+  poster: https://www.themoviedb.org/t/p/original/aXlKlWE5A6iP0xWf0QkJQ4sGjl6.jpg
+  year: 2018年冬
+  category: 原创动画
+
+- title: Just Because!
+  url: https://www.themoviedb.org/tv/74096
+  poster: https://www.themoviedb.org/t/p/original/3nrxbtuPSq6lDR1jYF7xaIkCDCy.jpg
+  year: 2017年秋
+  category: 原创动画
+
+- title: 徒然チルドレン
+  url: https://www.themoviedb.org/tv/72509
+  poster: https://www.themoviedb.org/t/p/original/7cCFzTvhpU27G2hK1aIFQ6DLVlJ.jpg
+  year: 2017年夏
+  category: 漫画改编
+
+- title: 終末なにしてますか？忙しいですか？救ってもらっていいですか？
+  url: https://www.themoviedb.org/tv/70639
+  poster: https://www.themoviedb.org/t/p/original/i1hZ5Rr2lIrteLRT4kay6fJxCKx.jpg
+  year: 2017年春
+  category: 小说改编
+
+- title: 月曜日のたわわ
+  url: https://www.themoviedb.org/tv/68455
+  poster: https://www.themoviedb.org/t/p/original/a10QKZ6EQvLoiRXkf3q1gqqB2dm.jpg
+  year: 2016年秋
+  category: 漫画改编
+
+- title: 君の名は。
+  url: https://www.themoviedb.org/movie/372058
+  poster: https://www.themoviedb.org/t/p/original/gCYGhDtlsHr5hPjpe2Yh0MSrntG.jpg
+  year: 2016年夏
+  category: 原创动画
+
+- title: ReLIFE
+  url: https://www.themoviedb.org/tv/66941
+  poster: https://www.themoviedb.org/t/p/original/pyOGQH0kl7FlcqEQRO6kfCJWyVn.jpg
+  year: 2016年夏
+  category: 漫画改编
+
+- title: 亜人
+  url: https://www.themoviedb.org/tv/65292
+  poster: https://www.themoviedb.org/t/p/original/uQEVd09ypPxsihePCBZMGCpDxIw.jpg
+  year: 2016年冬
+  category: 漫画改编
+
+- title: 僕だけがいない街
+  url: https://www.themoviedb.org/tv/65249
+  poster: https://www.themoviedb.org/t/p/original/xlQxg0I16A0DyQtUVO1zMVi9eOu.jpg
+  year: 2016年冬
+  category: 小说改编
+
+- title: コンクリート・レボルティオ～超人幻想～
+  url: https://www.themoviedb.org/tv/65932
+  poster: https://www.themoviedb.org/t/p/original/xdFICT8QhZheVIk1Fo0C24NdSqH.jpg
+  year: 2015年秋
+  category: 原创动画
+
+- title: すべてがFになる THE PERFECT INSIDER
+  url: https://www.themoviedb.org/tv/70292
+  poster: https://www.themoviedb.org/t/p/original/rCgETzvJQZc79HMaEvOrgTdPs2v.jpg
+  year: 2015年秋
+  category: 小说改编
+  
+- title: 心が叫びたがってるんだ。
+  url: https://www.themoviedb.org/movie/364111
+  poster: https://www.themoviedb.org/t/p/original/q2fgFbPQt6hw7HI0o0rRjpW3Pkw.jpg
+  year: 2015年夏
+  category: 原创动画
+
+- title: 血界戦線
+  url: https://www.themoviedb.org/tv/62327
+  poster: https://www.themoviedb.org/t/p/original/gDijiW0rZNr3tdWZ7PZtFBUKMbh.jpg
+  year: 2015年春
+  category: 漫画改编
+
+- title: SHIROBAKO
+  url: https://www.themoviedb.org/tv/64492
+  poster: https://www.themoviedb.org/t/p/original/keSYLYWkIKIB1aOy2IgItcWvHiX.jpg
+  year: 2014年秋
+  category: 原创动画
+
+- title: 四月は君の嘘
+  url: https://www.themoviedb.org/tv/61663
+  poster: https://www.themoviedb.org/t/p/original/sLidQRf7YtPdoWabDgrBm2NcQWF.jpg
+  year: 2014年秋
+  category: 漫画改编
+
+- title: 月刊少女野崎くん
+  url: https://www.themoviedb.org/tv/61379
+  poster: https://www.themoviedb.org/t/p/original/7QTH42eDWGLJRZ15SoNX8R8MjOm.jpg
+  year: 2014年夏
+  category: 漫画改编
+
+- title: 凪のあすから
+  url: https://www.themoviedb.org/tv/61408
+  poster: https://www.themoviedb.org/t/p/original/iKFay6wgUdVuFGr3xVJNRdCmNg6.jpg
+  year: 2013年秋
+  category: 原创动画
+
+- title: 進撃の巨人
+  url: https://www.themoviedb.org/tv/1429
+  poster: https://www.themoviedb.org/t/p/original/9ZBxozbsdaeyYoKGa4h1fVwHR5y.jpg
+  year: 2013年春
+  category: 漫画改编
+
+- title: 新世界より
+  url: https://www.themoviedb.org/tv/53052
+  poster: https://www.themoviedb.org/t/p/original/mrjvDz3LMhaq7hCPKPbcgdhFRZL.jpg
+  year: 2012年秋
+  category: 小说改编
+
+- title: ソードアート・オンライン
+  url: https://www.themoviedb.org/tv/45782
+  poster: https://www.themoviedb.org/t/p/original/mJQNtaARBzWOGwiK0lZIj5fWIln.jpg
+  year: 2012年夏
+  category: 小说改编
+
+- title: 氷菓
+  url: https://www.themoviedb.org/tv/65329
+  poster: https://www.themoviedb.org/t/p/original/4uDcwBhJUZKUPV0sf7FR4yGnvHh.jpg
+  year: 2012年春
+  category: 小说改编
+
+- title: 未来日記
+  url: https://www.themoviedb.org/tv/46671
+  poster: https://www.themoviedb.org/t/p/original/ziRrSbJ9419napyGU1zQWlsLQa6.jpg
+  year: 2011年秋
+  category: 漫画改编
+
+- title: ヨスガノソラ
+  url: https://www.themoviedb.org/tv/68005
+  poster: https://www.themoviedb.org/t/p/original/eqjuqks97psdEqy3Crit5x1ZZki.jpg
+  year: 2010年秋
+  category: 游戏改编
+
+- title: Angel Beats!
+  url: https://www.themoviedb.org/tv/42942
+  poster: https://www.themoviedb.org/t/p/original/uZmIXbuTauX9Odj4CHCDTeXRgSP.jpg
+  year: 2010年春
+  category: 原创动画
+
+- title: とある科学の超電磁砲
+  url: https://www.themoviedb.org/tv/30977
+  poster: https://www.themoviedb.org/t/p/original/vUTIKSGdoMGHUOgSv0wcLnLacVf.jpg
+  year: 2009年秋
+  category: 漫画改编
+
+- title: とらドラ！
+  url: https://www.themoviedb.org/tv/42916
+  poster: https://www.themoviedb.org/t/p/original/yu4p3tJiWBIXAvwM5LZXbNplTIu.jpg
+  year: 2008年秋
+  category: 小说改编
+
+- title: CLANNAD
+  url: https://www.themoviedb.org/tv/24835
+  poster: https://www.themoviedb.org/t/p/original/j8RZC51i5aH3UektH0ViKES2Ux3.jpg
+  year: 2007年秋
+  category: 游戏改编
+
+- title: 秒速5センチメートル
+  url: https://www.themoviedb.org/movie/38142
+  poster: https://www.themoviedb.org/t/p/original/pvVrMNuxVmSAsShjAgFkfuLm9Wg.jpg
+  year: 2007年春
+  category: 原创动画
+
+- title: コードギアス 反逆のルルーシュ
+  url: https://www.themoviedb.org/tv/31724
+  poster: https://www.themoviedb.org/t/p/original/gVZgJQwwgH6pSdkx7zDLGBSnxg8.jpg
+  year: 2006年秋
+  category: 原创动画
+
+- title: 灼眼のシャナ
+  url: https://www.themoviedb.org/tv/22634
+  poster: https://www.themoviedb.org/t/p/original/6trACKp30DHm63Kd1GVnLBud0CZ.jpg
+  year: 2005年秋
+  category: 小说改编
