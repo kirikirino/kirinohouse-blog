@@ -34,7 +34,7 @@
     }
     
     &.random {
-      background-color: #efefef;
+      background-color: #f6f0f3;
     }
 
     .image {
@@ -44,6 +44,7 @@
       background-size: cover;
       flex-shrink: 0;
       border: none;
+      background-position: 100% 0;
 
       &.list{
       width: 128.0px; // 图片宽度
@@ -79,8 +80,22 @@
       }
     }
 
+    .score {
+      margin-top: 10px;
+      overflow: hidden;
+      word-wrap:break-word;
+      word-break: break-all;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      font-size: 1.3rem;
+      line-height:1.2rem;
+      color: rgba(253, 216, 53, 0.9);
+    }
+
     .year {
-      margin-top: 40px;
+      margin-top: 20px;
       overflow: hidden;
       text-overflow: ellipsis;
       word-wrap:break-word;
@@ -112,14 +127,14 @@
         }
       
       &.random {
-        background: #7d7d7d;
+        background: #FFCC99;
         }
 
       }
 
       .category {
       margin-top: 5px;
-      margin-bottom: 30px;
+      margin-bottom: 15px;
       overflow: hidden;
       text-overflow: ellipsis;
       word-wrap:break-word;
@@ -151,7 +166,7 @@
         }
       
       &.random {
-        background: #7d7d7d;
+        background: #FF99CC;
         }
 
       }

@@ -55,7 +55,7 @@ function animesGrid(args, content) {
       urlparam = url.parse(item.url);
     }
 
-    var item_poster = item.poster || theme.images + '/404.png';
+    var item_poster = item.poster || theme.images + '/anime404.png';
 
     if (!item_poster.startsWith('//') && !item_poster.startsWith('http')) {
       item_poster = theme.statics + item_poster;
@@ -89,11 +89,13 @@ function animesGrid(args, content) {
 
     result += `<div class="item ${item_color}" title="${item.title}"${item.color}>`;
 
+
     if (urlparam.protocol && urlparam.hostname !== titleHost) {
       var durl = Buffer.from(item.url).toString('base64');
       result += `<span class="exturl image ${item.model || "list"}" data-url="${durl}" data-background-image="${item_poster}"></span>
           <div class="info">
           <span class="exturl title" data-url="${durl}">${item.title}</span>
+          <p class="score">${item.score || "&emsp;"}</p>
           <p class="year ${item_color}">${item.year || "XXXX年秋"}</p>
           <p class="category ${item_category}">${item.category || "未知类型"}</p>
           </div></div>`;
@@ -101,6 +103,7 @@ function animesGrid(args, content) {
       result += `<a href="${item.url}" class="image ${item.model || "list"}" data-background-image="${item_poster}"></a>
           <div class="info">
           <a href="${item.url}" class="title">${item.title}</a>
+          <p class="score">${item.score || "&emsp;"}</p>
           <p class="year ${item_color}">${item.year || "XXXX年秋"}</p>
           <p class="category ${item_category}">${item.category || "未知类型"}</p>
           </div></div>`;
